@@ -1,6 +1,6 @@
 # Site responsive pour Exakis Nelite
 
-J'ai choisi l'entreprise Exakis Nelite.
+J'ai choisi de présenter l'entreprise Exakis Nelite via un site moderne et responsive.
 
 
 # écran de zoning :
