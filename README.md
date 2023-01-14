@@ -1,4 +1,4 @@
-# s1-2021-ihm
+# Site responsive pour Exakis Nelite
 
 J'ai choisi l'entreprise Exakis Nelite.
 
